@@ -1,0 +1,17 @@
+# ℹ️ About this capsule
+
+Here's what I use to maintain this capsule
+
+## What I use for this capsule
+
+* VSCode of course to edit the contents
+* Molly Brown as the server
+* docker
+
+I've created my own docker image. If I update the content of the capsule I just rebuild and push to hub.docker.com
+
+## How I edit the content
+
+It's simple. I get into my 🛸, drink ☕️, look at my 💻, type on my ⌨️ and move the cursor with my 🖱️
+
+=> / ⏮️ Back to my homepage 

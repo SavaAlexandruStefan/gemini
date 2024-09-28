@@ -1,0 +1,15 @@
+# Sava.Rocks - Welcome
+
+## Welcome to my capsule ... it's not Viagra
+
+=> /gemlog/ 💎 Gemlog - My latest thoughts
+=> /about/  🧑 About Sava
+=> /about-capsule/ ℹ️ About this capsule
+
+## Other places of mine
+
+=> https://sava.rocks Sava.Rocks [https]
+=> gopher://sava.rocks Sava.Rocks [gopher]
+
+### Capsule last update
+28 September 2024 12:52PM

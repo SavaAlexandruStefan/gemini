@@ -1,0 +1,13 @@
+# Third post
+
+ Here's the content of the first post. 
+
+ Let's see how it looks
+
+ This FAQ was updated substantially in July of 2023, in part to make it much more accessible to a broad variety of readers. It is arranged roughly in order of least to most technically detailed content. You should be able to start at the start and continue reading until the point you feel your curiosity is satisfied or you are in over your head.
+
+Despite this, the FAQ is still a long and detailed document and might not be the best way to get a very quick and easy idea of what Gemini is if you are only mildly interested. See question 1.14 for some links to other introductory resources provided by the community, including a video overview!
+
+You can also just read, or link people to, the individual FAQ section(s) most relevant to you/them. Each section is available as an individual document:
+
+=> /gemlog/ ⏮️ Back to my gemlog

@@ -1,0 +1,12 @@
+# 💎 Gemlog - Sava.Rocks
+
+## 2024
+
+=> /gemlog/third-post.gmi 2024-09-19 My third post on gemini
+=> /gemlog/second-post.gmi 2024-08-19 My second post on gemini
+
+## 2023
+
+=> /gemlog/first-post.gmi 2023-09-19 My first post on gemini
+
+=> / ⏮️ Back to my homepage 

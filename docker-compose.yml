@@ -1,0 +1,8 @@
+services:
+  serve:
+    build:
+      context: './'
+    ports:
+      - '1965:1965'
+    volumes:
+      - './gemini-content/:/var/gemini'
