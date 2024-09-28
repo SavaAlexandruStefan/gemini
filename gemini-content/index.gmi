@@ -2,6 +2,8 @@
 
 ## Welcome to my capsule ... it's not Viagra
 
+This should appear directly from docker hub!!!
+
 => /gemlog/ 💎 Gemlog - My latest thoughts
 => /about/  🧑 About Sava
 => /about-capsule/ ℹ️ About this capsule

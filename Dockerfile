@@ -1,4 +1,4 @@
-FROM golang:alpine as build
+FROM golang:alpine AS build
 
 RUN apk add git openssl
 RUN go install tildegit.org/solderpunk/molly-brown@latest
@@ -27,5 +27,5 @@ COPY --chown=molly:molly ./molly-brown/access.log /opt/molly/access.log
 COPY --chown=molly:molly ./gemini-content/ /var/gemini/
 RUN ln -s /opt/molly/molly.conf /etc/molly.conf
 USER molly
-ENTRYPOINT /opt/molly/molly-brown
+ENTRYPOINT ["/opt/molly/molly-brown"]
 EXPOSE 1965
