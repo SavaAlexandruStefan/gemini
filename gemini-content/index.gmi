@@ -2,7 +2,7 @@
 
 ## Welcome to my capsule ... it's not Viagra
 
-This should appear directly from docker hub!!!
+Let's test the update feature !!!
 
 => /gemlog/ 💎 Gemlog - My latest thoughts
 => /about/  🧑 About Sava
