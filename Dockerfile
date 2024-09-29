@@ -6,8 +6,8 @@ RUN openssl req \
       -newkey rsa:4096 \
       -x509 \
       -days 3650 \
-      -subj '/CN=localhost' \
-      -addext "subjectAltName = DNS:localhost" \
+      -subj '/CN=sava.rocks' \
+      -addext "subjectAltName = DNS:sava.rocks" \
       -nodes \
       -out molly.crt \
       -keyout molly.key
