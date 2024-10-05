@@ -2,7 +2,7 @@
 
 ## Welcome to my capsule ... it's not Viagra
 
-Let's test the update feature !!!
+### You can browse the following pages:
 
 => /gemlog/ 💎 Gemlog - My latest thoughts
 => /about/  💀 About Sava
@@ -14,5 +14,5 @@ Let's test the update feature !!!
 => gopher://sava.rocks Sava.Rocks [gopher]
 
 ```last update
-Capsule last update: 05 October 2024 09:42 AM
+Capsule last update: 05 October 2024 10:15 AM
 ```
