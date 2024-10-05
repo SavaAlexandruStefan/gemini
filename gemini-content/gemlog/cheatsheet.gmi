@@ -23,6 +23,8 @@ At the bare minimum, a link line consists of just the characters `=>` and a URL.
 
 But you can include labels with links, and probably should most of the time.  Labels are separated from the URL by one or more spaces or tabs:
 
+=> gemini://sava.rocks/gemlog/cheatsheet.gmi	Gemtext cheatsheet with example from Sava.Rocks
+
 ```
 => gemini://sava.rocks/gemlog/cheatsheet.gmi	Gemtext cheatsheet with example from Sava.Rocks
 ```
