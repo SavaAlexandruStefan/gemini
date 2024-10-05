@@ -1,21 +1,8 @@
-# 💀 About me
-
-So a few weeks ago I said what I felt like was my goodbyes[¹] in a longer post about the importance of backing up your posts[²], and I've checked in once or twice since then. No comments. And while I understand a lot of writing online is just putting it out there and trusting it might find the right person, one day, eventually, cohost's design means that I don't even know if that's actually true. Full text search being not a thing there, you have to tag with hashtags, and hope for the best. In a year and a half there, I never really felt like I fit in. I'm going to mourn this platform long after it eventually goes. There's a part of me that still believes that the beating heart of the internet is people making things and putting them online for other people to find. As far as social media goes, this could've been a return to that transitional period, where people were still interested in creating. "Posting" has always been a dim simulacrum, whether it's at 140, 280, or 500 characters.
-
-
-### Footnotes
-
-¹ Buwhaha 
-
-² Hahaha
-
-## Gemtext cheatsheet
+# Gemtext cheatsheet
 
 This is a quick "cheatsheet" intended for people who haven't been writing Gemtext for long or who need their memory refreshed after a break.  If you're completely new to Gemtext and you need things explained in a more detail, you should check out the full length introduction:
 
-=> gemtext.gmi	A quick introduction to "gemtext" markup
-
-### Text
+## Text
 
 Here's the basics of how text works in Gemtext:
 
@@ -24,35 +11,45 @@ Here's the basics of how text works in Gemtext:
 * Write paragraphs as single long lines
 * Blank lines are rendered verbatim
 
-### Links
+## Links
 
 At the bare minimum, a link line consists of just the characters `=>` and a URL.  Here's a link to this page:
 
+=> gemini://sava.rocks/gemlog/cheatsheet.gmi
+
 ```
-=> gemini://geminiprotocol.net/docs/cheatsheet.gmi
+=> gemini://sava.rocks/gemlog/cheatsheet.gmi
 ```
 
 But you can include labels with links, and probably should most of the time.  Labels are separated from the URL by one or more spaces or tabs:
 
 ```
-=> gemini://geminiprotocol.net/docs/cheatsheet.gmi	Gemtext cheatsheet
+=> gemini://sava.rocks/gemlog/cheatsheet.gmi	Gemtext cheatsheet with example from Sava.Rocks
 ```
 
-### Headings
+## Headings
 
 You get three levels of heading:
 
+# H1
+## H2
+### H3
+
 ```
-# Heading
+# H1
 
-## Sub-heading
+## H2
 
-### Sub-subheading
+### H3
 ```
 
-### Lists
+## Lists
 
 You get one kind of list and you can't nest them:
+
+* Mercury
+* Gemini
+* Apollo
 
 ```
 * Mercury
@@ -60,15 +57,17 @@ You get one kind of list and you can't nest them:
 * Apollo
 ```
 
-### Quotes
+## Quotes
 
 Here's a quote from Maciej Cegłowski:
+
+> I contend that text-based websites should not exceed in size the major works of Russian literature.
 
 ```
 > I contend that text-based websites should not exceed in size the major works of Russian literature.
 ```
 
-### Pre-fromatted text
+## Pre-fromatted text
 
 Lines which start with ``` will cause clients to toggle in and out of ordinary rendering mode and preformatted mode.  In preformatted mode, Gemtext syntax is ignored so links etc. will not be rendered, and text will appear in a monospace font.
 

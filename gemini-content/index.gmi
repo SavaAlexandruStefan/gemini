@@ -5,12 +5,14 @@
 Let's test the update feature !!!
 
 => /gemlog/ 💎 Gemlog - My latest thoughts
-=> /about/  🧑 About Sava
-=> /about-capsule/ ℹ️ About this capsule
+=> /about/  💀 About Sava
+=> /about-capsule/ 🪐 About this capsule
 
 ## Other places of mine
 
 => https://sava.rocks Sava.Rocks [https]
 => gopher://sava.rocks Sava.Rocks [gopher]
 
-> Capsule last update: 05 October 2024 09:42 AM
+```last update
+Capsule last update: 05 October 2024 09:42 AM
+```
