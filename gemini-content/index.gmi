@@ -4,9 +4,9 @@
 
 ### You can browse the following pages:
 
-=> /gemlog/ 💎 Gemlog - My latest thoughts
+=> /blog/ 💎 Blog
 => /about/  💀 About Sava
-=> /about-capsule/ 🪐 About this capsule
+=> /about-website/ 🪐 About this capsule
 
 ## Other places of mine
 
